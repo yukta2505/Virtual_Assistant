@@ -1,5 +1,5 @@
 import React from 'react'
-import { userDataContext } from '../context/userContext'
+import { userDataContext } from '../context/UserContext'
 import { useState } from 'react'
 import axios from 'axios'
 import { useContext } from 'react'
