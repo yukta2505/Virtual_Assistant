@@ -7,7 +7,7 @@ import image4 from "../assets/image4.png"
 import image5 from "../assets/image5.png"
 import { LuImagePlus } from "react-icons/lu";
 import { useState, useRef } from 'react'
-import { userDataContext } from '../context/userContext'
+import { userDataContext } from '../context/UserContext'
 import { useNavigate } from 'react-router-dom'
 import { IoMdArrowBack } from "react-icons/io";
 
